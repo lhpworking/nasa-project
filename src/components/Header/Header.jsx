@@ -5,8 +5,7 @@ export default function Header() {
   return (
     <header className="header">
       <div className="container">
-        <a className="logo">
-          <img src="/react.svg" alt="logo" /> NASA
+        <a className="logo"> NASA
         </a>
       </div>
     </header>
