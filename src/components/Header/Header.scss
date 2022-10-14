@@ -1,0 +1,16 @@
+.header {
+    position: relative;
+    height: 70px;
+
+    .container {
+        height: 100%;
+
+        .logo {
+            display: inline-flex;
+            align-items: center;
+            height: 100%;
+            gap: 1rem;
+        }
+    }
+
+}
